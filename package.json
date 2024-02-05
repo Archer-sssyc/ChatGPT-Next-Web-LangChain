@@ -26,7 +26,7 @@
     "cheerio": "^1.0.0-rc.12",
     "duck-duck-scrape": "^2.2.4",
     "encoding": "^0.1.13",
-    "emoji-picker-react": "^4.5.15",
+    "emoji-picker-react": "^4.7.12",
     "fuse.js": "^6.6.2",
     "html-entities": "^2.4.0",
     "html-to-image": "^1.11.11",
